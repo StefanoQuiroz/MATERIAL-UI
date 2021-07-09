@@ -7,7 +7,7 @@ Breve Ejemplo de Formulario usando Material UI
 Instrucciones para instalación de Material-UI
 1. npx create-react-app my-proyect
 2. cd my-project
-3. npm i @material-ui/core
+3. npm i @material-ui/core @material-ui/icons
 4. Revisar la dependencia @material-ui/core en package.json
 5. npm run start
 ```
@@ -21,3 +21,4 @@ Para Descargar este proyecto
 3. npm i
 4. npm run start
 ```
+
